@@ -1,0 +1,9 @@
+background-color: #e0ffff
+.piece1{
+    margin: auto;
+}
+.asli{
+    width:100px
+    height:100px
+    padding:20px 30px 50px 
+}
