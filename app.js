@@ -1,5 +1,5 @@
 let firstName = "hediyeh";
 let lastName = "mohamadi";
-let fulName = firstName + ' ' + lastName;
+let fullName = firstName + ' ' + lastName;
 
-console. log(fulName);
+console. log(fullName);
